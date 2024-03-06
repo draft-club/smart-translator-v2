@@ -1,0 +1,1 @@
+# smart-translator-v2
